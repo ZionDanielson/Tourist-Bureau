@@ -1,0 +1,10 @@
+body{
+    background-image: url("../images/homebg.jpg");
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;     
+    /*backdrop-filter: blur(1px);*/
+    backdrop-filter: brightness(15%);
+    backdrop-filter: contrast(85%);
+    backdrop-filter: saturation(100%);
+    } 
